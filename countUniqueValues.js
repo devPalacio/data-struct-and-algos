@@ -26,3 +26,5 @@ console.log(
   "answer: 7"
 );
 console.log(countUniqueValues([1]), "answer: 1");
+
+// improvments: use i as pointer and get rid of extra variable. mutate array to move largest number to first pointer and use indexOf to find total unique values.
